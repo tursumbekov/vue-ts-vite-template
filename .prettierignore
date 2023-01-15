@@ -1,0 +1,5 @@
+dist
+README.md
+/src/@types/any.ts
+/src/directives
+/src/components/index.ts

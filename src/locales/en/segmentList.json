@@ -1,0 +1,17 @@
+{
+    "newSegment": "New Segment",
+    "date": "Date",
+    "key": "Key",
+    "locale": "Locale",
+    "dailyReach": "Daily Reach",
+    "history": "History",
+    "edit": "Edit",
+    "duplicate": "Duplicate",
+    "delete": "Delete",
+    "nothingToShow": "Nothing To Show",
+    "name": "Name",
+    "deleteSegmentModal": {
+        "title": "Delete segment?",
+        "description": "Are you sure you want to delete this segment \"{name}\"?"
+    }
+}

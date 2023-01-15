@@ -1,0 +1,14 @@
+{
+    "key": "Key",
+    "iabCategory": "IAB Category",
+    "pathMatching": "Path matching",
+    "include": "Include",
+    "exclude": "Exclude",
+    "locale": "Locale",
+    "tags": "Tags",
+    "entities": "Entities",
+    "reach": "Reach",
+    "namePlaceholder": "Give me a name",
+    "keyPlaceholder": "Key name",
+    "descriptionPlaceholder": "Add description..."
+}

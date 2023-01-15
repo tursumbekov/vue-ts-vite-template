@@ -1,0 +1,15 @@
+{
+    "login": "Login",
+    "ohNo": "Oh no!",
+    "edit": "Edit",
+    "view": "View",
+    "more": "More",
+    "includeSegments": "Include segments",
+    "excludeSegments": "Exclude segments",
+    "selectCategory": "Select category",
+    "addTag": "Add tag",
+    "addEntity": "Add entity",
+    "addLocale": "Add locale",
+    "cancel": "Cancel",
+    "save": "Save"
+}

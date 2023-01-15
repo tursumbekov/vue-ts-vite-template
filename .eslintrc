@@ -1,0 +1,30 @@
+{
+    "root": true,
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": [
+        "plugin:vue/vue3-recommended",
+        "eslint:recommended",
+        "@vue/typescript/recommended",
+        // Add under other rules
+        "@vue/prettier"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 2021
+    },
+    // vue/macros-global
+    "globals": {
+        "$ref": "readonly",
+        "$computed": "readonly",
+        "$shallowRef": "readonly",
+        "$customRef": "readonly",
+        "$toRef": "readonly"
+    },
+    "rules": {
+        "vue/no-setup-props-destructure": "off",
+        "vue/multi-word-component-names": 0
+    }
+}

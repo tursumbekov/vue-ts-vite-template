@@ -1,0 +1,25 @@
+{
+    "tabWidth": 4,
+    "singleQuote": true,
+    "singleAttributePerLine": true,
+    "trailingComma": "all",
+    "importOrder": [
+        "^@/@enums",
+        "^@/@interfaces",
+        "^@/@types",
+        "^@/plugins/(.*)$",
+        "^@/modules",
+        "^@/locales",
+        "^@/stores",
+        "^@/router/(.*)$",
+        "^@/utils",
+        "^@/directives",
+        "^@/components",
+        "^@/views/(.vue*)$",
+        "^@/assets/(.*)$",
+        "^@/styles/(.*)$",
+        "^[./]"
+    ],
+    "importOrderSeparation": false,
+    "importOrderSortSpecifiers": true
+}

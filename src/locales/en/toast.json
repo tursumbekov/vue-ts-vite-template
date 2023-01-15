@@ -1,0 +1,7 @@
+{
+    "error": "Something went wrong",
+    "errorTryAgain": "Something went wrong. Try again",
+    "segmentCreated": "{name} segment has been created",
+    "segmentDuplicated": "{name} segment has been duplicated",
+    "segmentUpdated": "{name} segment has been updated"
+}

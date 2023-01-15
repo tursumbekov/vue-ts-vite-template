@@ -1,0 +1,8 @@
+{
+    "default": "Network Insights",
+    "home": "Home",
+    "auth": "Authentication",
+    "dashboard": "Dashboard",
+    "insights": "Insights",
+    "customSegment": "Custom Segment"
+}
